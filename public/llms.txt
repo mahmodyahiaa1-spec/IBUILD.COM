@@ -1,0 +1,9 @@
+# i Build
+
+> Cairo-based architectural finishes, interior design, decoration, construction, and real estate development studio.
+
+i Build serves residential and hospitality clients with integrated design, engineering, construction, and finishing services backed by more than 20 years of craft.
+
+## Pages
+
+- [Home](/): Services, selected projects, gallery, company leadership, booking, and contact information.
